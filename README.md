@@ -68,5 +68,3 @@ Feel free to fork, star, and submit pull requests. Contributions are welcome!
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-Would you like help customizing this for a specific model family or task (e.g., vision, text classification, embeddings)? I can also help you write example notebooks or scripts to populate the repo.
